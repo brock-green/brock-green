@@ -14,7 +14,10 @@ Seaborn | Scikit-learn | Anaconda | Jupyter Notebooks | Git/GitHub
 
 Check out my pinned repositories to see these projects!:
 
-Smart Moves: Guiding Your Way Home: Interactive dashboard leveraging unsupervised learning to help families choose the best location based on affordability, crime, schools, and commute (Python, Pandas, NumPy, Scikit-learn, Tableau).
-Natural Language Processing and Classification: Predicting main programming language from Github repository READMEs (Python, Pandas, NumPy, RegEX, Classification, BeautifulSoup, Web-Scraping).
-Wine Quality Prediction: Using KMeans clustering and statistical analysis to build a KNN model for predicting wine quality (Python, Pandas, NumPy, SQL, Scikit-learn, matplotlib, seaborn).
-Customer Churn Analysis: Identifying customer churn drivers with statistical analysis and building a Logistic Regression model for prediction (Python, Pandas, Tableau, SQL, Scikit-learn, matplotlib, seaborn).
+- Smart Moves: Guiding Your Way Home: Interactive dashboard leveraging unsupervised learning to help families choose the best location based on affordability, crime, schools, and commute (Python, Pandas, NumPy, Scikit-learn, Tableau). 
+
+- Natural Language Processing and Classification: Predicting main programming language from Github repository READMEs (Python, Pandas, NumPy, RegEX, Classification, BeautifulSoup, Web-Scraping).
+
+- Wine Quality Prediction: Using KMeans clustering and statistical analysis to build a KNN model for predicting wine quality (Python, Pandas, NumPy, SQL, Scikit-learn, matplotlib, seaborn).
+
+- Customer Churn Analysis: Identifying customer churn drivers with statistical analysis and building a Logistic Regression model for prediction (Python, Pandas, Tableau, SQL, Scikit-learn, matplotlib, seaborn).
